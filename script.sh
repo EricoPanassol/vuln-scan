@@ -60,4 +60,3 @@ echo "[-] Nmap banner scan done, see the results at banners"
 
 
 echo 'Done'
-fasfa
